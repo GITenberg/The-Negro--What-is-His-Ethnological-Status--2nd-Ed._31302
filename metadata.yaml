@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35135'
     url: http://www.gutenberg.org/2009/agents/35135
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31302#The-Negro--What-is-His-Ethnological-Status--2nd-Ed.
 gutenberg_issued: '2010-02-17'
 gutenberg_type: Text
 identifiers:
